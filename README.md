@@ -10,7 +10,7 @@
 </p>
 
 <h2> 
-I'm not just optimizing the AI supply chain—I’m composing it. From SAP IBP and APO precision to Python-driven automation, I build global systems that hit the right notes in visibility, forecasting, planning, and fulfillment. Whether it's forecasting with LSTM or reducing aged inventory with MILP, I bring technical harmony and strategic clarity across the asset lifecycle.
+I don’t just build supply chains — I compose them. From S&OP to S&OE, I weave SAP IBP, Blue Yonder, and Python intelligence into living systems that sense, learn, and balance the rhythm between demand and possibility.
 </h2>
 
 
