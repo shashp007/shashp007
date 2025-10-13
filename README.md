@@ -10,7 +10,7 @@
 </p>
 
 <h2> 
-I don’t just build supply chains — I compose them. From S&OP to S&OE, I weave SAP IBP, Blue Yonder, and Python intelligence into living systems that sense, learn, and balance the rhythm between demand and possibility.
+I don’t just build supply chains — I compose them into living, intelligent ecosystems. From S&OP blueprints to S&OE execution, I weave SAP IBP, Blue Yonder, and S/4HANA with Python and AI to create digital twins that don’t just plan — they think, sense, and adapt. Each model, each algorithm, each forecast is a note in a larger symphony of visibility, agility, and foresight — transforming uncertainty into balance and data into design.
 </h2>
 
 
