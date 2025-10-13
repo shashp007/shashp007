@@ -36,7 +36,7 @@ transforming <b>uncertainty into balance</b> and <b>data into design</b>.
 
 ## 💼 About Me  
 
-🌍 **Intel Supply Planning & Business Architecture Transformation Lead**  
+🌍 **Supply Planning & Business Architecture Transformation Lead**  
 🔹 Architecting global planning ecosystems powered by **SAP IBP**, **Blue Yonder**, and **Python**  
 🔹 Driving **S&OP to S&OE synchronization**, **capacity optimization**, and **forecast accuracy** gains  
 🔹 Building **AI-driven Digital Twins** for predictive resilience in semiconductor and high-tech networks  
