@@ -147,7 +147,6 @@ transforming <b>uncertainty into balance</b> and <b>data into design</b>.
 
 <h3 align="center">🌐 Connect with Me</h3>
 <p align="center">
-  <a href="https://www.linkedin.com/in/spatel62/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="https://github.com/shashp007"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"></a>
   <a href="mailto:11spatel11@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </p>
