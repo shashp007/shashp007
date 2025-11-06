@@ -156,3 +156,7 @@ transforming <b>uncertainty into balance</b> and <b>data into design</b>.
 <h3 align="center">
 💫 “Where algorithms meet architecture, and foresight fuels flow.” 💫  
 </h3>
+
+git add README.md assets/hero-dark.svg assets/hero-light.svg
+git commit -m "Dark-mode hero + Kinaxis after SAP IBP + RR skills section"
+git push
