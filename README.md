@@ -14,7 +14,7 @@
 </h2>
 
 <p align="center">
-From S&OP blueprints to S&OE execution, I weave <b>SAP IBP</b>, <b>Blue Yonder</b>, and <b>S/4HANA</b> with <b>Python</b> and <b>AI</b>  
+From S&OP blueprints to S&OE execution, I weave <b>SAP IBP</b>, <b>Kinaxis</b>, <b>Blue Yonder</b>, and <b>S/4HANA</b> with <b>Python</b> and <b>AI</b>  
 to create digital twins that don’t just plan — they <b>think, sense, and adapt</b>.  
 Each algorithm, model, and forecast is a note in a living symphony of visibility, agility, and foresight —  
 transforming <b>uncertainty into balance</b> and <b>data into design</b>.  
