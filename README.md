@@ -30,9 +30,10 @@
 <h2>💼 About Me</h2>
 <p align="left" style="max-width: 750px;">
   🌍 <b>Planning, Capacity & Operations Engineer for Hyperscale Supply Chains</b><br>
-  🔹 Architecting global planning ecosystems for <b>servers, GPUs, AR/VR hero products & accessories</b><br>
-  🔹 Building <b>solver-backed engines</b> for <b>capacity modeling</b>, <b>multi-channel demand</b>, and <b>DC inventory</b><br>
-  🔹 Designing <b>digital twins</b> and <b>stochastic simulations</b> for <b>data centers</b>, <b>CM/ODM factories</b> & <b>logistics networks</b><br><br>
+  🔹 Architecting global planning ecosystems for <b>servers, GPUs, AR/VR hero products & accessories</b> using <b>SAP IBP</b>, <b>o9</b> & <b>Kinaxis</b><br>
+🔹 Building <b>solver-backed engines</b> for <b>capacity modeling</b>, <b>multi-channel demand</b>, and <b>DC inventory</b><br>
+🔹 Designing <b>digital twins</b> and <b>stochastic simulations</b> for <b>data centers</b>, <b>CM/ODM factories</b> & <b>logistics networks</b><br>
+
 
   💡 <b>What I love working on:</b><br>
   ▪ Capacity & supply optimization for <b>AI / GPU clusters</b> and <b>hyperscale infrastructure</b><br>
@@ -81,9 +82,10 @@
 <h2>⚙️ Technical Arsenal</h2>
 <p>
   <img src="https://img.shields.io/badge/ERP-SAP%20IBP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white" alt="SAP IBP">
-  <img src="https://img.shields.io/badge/Planning-Kinaxis-FF3333?style=for-the-badge&logo=kinaxis&logoColor=white" alt="Kinaxis">
-  <img src="https://img.shields.io/badge/Planning-Blue%20Yonder-0067FF?style=for-the-badge&logo=bytedance&logoColor=white" alt="Blue Yonder">
-  <img src="https://img.shields.io/badge/ERP-SAP%20S/4HANA-0FAAFF?style=for-the-badge&logo=sap&logoColor=white" alt="SAP S/4HANA">
+<img src="https://img.shields.io/badge/Planning-o9%20Solutions-4B9CD3?style=for-the-badge&logo=azuredevops&logoColor=white" alt="o9 Solutions">
+<img src="https://img.shields.io/badge/Planning-Kinaxis-FF3333?style=for-the-badge&logo=kinaxis&logoColor=white" alt="Kinaxis">
+<img src="https://img.shields.io/badge/Planning-Blue%20Yonder-0067FF?style=for-the-badge&logo=bytedance&logoColor=white" alt="Blue Yonder">
+<img src="https://img.shields.io/badge/ERP-SAP%20S/4HANA-0FAAFF?style=for-the-badge&logo=sap&logoColor=white" alt="SAP S/4HANA">
   <img src="https://img.shields.io/badge/Optimization-MILP-003B57?style=for-the-badge&logo=apachespark&logoColor=white" alt="MILP">
   <img src="https://img.shields.io/badge/Modeling-Stochastic%20Simulation-6A5ACD?style=for-the-badge&logo=python&logoColor=white" alt="Stochastic">
   <img src="https://img.shields.io/badge/Engine-Digital%20Twin-20B2AA?style=for-the-badge&logo=tensorflow&logoColor=white" alt="Digital Twin">
@@ -119,10 +121,11 @@
         <summary><b>🏗️ Enterprise Planning & SCM Platforms</b></summary>
         <p align="left" style="padding-left: 20px;">
           <img src="https://img.shields.io/badge/ERP-SAP%20IBP-0FAAFF?style=flat&logo=sap" alt="SAP IBP">
-          <img src="https://img.shields.io/badge/ERP-SAP%20APO-0FAAFF?style=flat&logo=sap" alt="SAP APO">
-          <img src="https://img.shields.io/badge/ERP-SAP%20S/4HANA-0FAAFF?style=flat&logo=sap" alt="SAP S/4HANA">
-          <img src="https://img.shields.io/badge/Planning-Kinaxis%20RapidResponse-FF3333?style=flat&logo=kinaxis" alt="Kinaxis">
-          <img src="https://img.shields.io/badge/Planning-Blue%20Yonder-0067FF?style=flat&logo=bytedance" alt="Blue Yonder">
+<img src="https://img.shields.io/badge/Planning-o9%20Solutions-4B9CD3?style=flat&logo=azuredevops" alt="o9 Solutions">
+<img src="https://img.shields.io/badge/Planning-Kinaxis%20RapidResponse-FF3333?style=flat&logo=kinaxis" alt="Kinaxis">
+<img src="https://img.shields.io/badge/Planning-Blue%20Yonder-0067FF?style=flat&logo=bytedance" alt="Blue Yonder">
+<img src="https://img.shields.io/badge/ERP-SAP%20APO-0FAAFF?style=flat&logo=sap" alt="SAP APO">
+<img src="https://img.shields.io/badge/ERP-SAP%20S/4HANA-0FAAFF?style=flat&logo=sap" alt="SAP S/4HANA">
           <img src="https://img.shields.io/badge/Framework-APS-4B0082?style=flat&logo=ibm" alt="APS">
           <img src="https://img.shields.io/badge/Process-S&OP%20%2F%20S&OE-F80000?style=flat&logo=databricks" alt="S&OP/S&OE">
           <img src="https://img.shields.io/badge/Engine-Digital%20Twin-20B2AA?style=flat&logo=tensorflow" alt="Digital Twin">
